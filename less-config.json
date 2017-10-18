@@ -1,0 +1,7 @@
+[
+    {
+        "input":"estilos.less",
+        "output":"../estilos.css",
+        "compress":"true"
+    }
+]
