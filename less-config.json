@@ -1,6 +1,6 @@
 [
     {
-        "input":"estilos.less",
+        "input":"less/estilos.less",
         "output":"../estilos.css",
         "compress":"true"
     }
